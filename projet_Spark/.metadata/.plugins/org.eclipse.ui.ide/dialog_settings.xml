@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+		<item value="/net/cremi/mduverneix/Bureau/espaces/travail/projet_Spark"/>
+		<item value="/net/cremi/mduverneix/espaces/travail/spark_maven"/>
+	</list>
+</section>

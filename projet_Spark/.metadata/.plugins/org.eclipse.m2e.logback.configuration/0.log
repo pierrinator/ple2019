@@ -1,0 +1,47 @@
+2018-11-29 15:41:28,566 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-01-24 12:28:22,554 [Worker-4] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2019-01-24 12:28:29,594 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: bigdata:TPSpark:0.0.1 @ /autofs/unitytravail/travail/mduverneix/spark_maven/pom.xml.
+2019-01-24 12:28:29,594 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: bigdata:TPSpark:0.0.1 @ /autofs/unitytravail/travail/mduverneix/spark_maven/pom.xml.
+2019-01-24 12:28:32,703 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-24 12:28:32,706 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /autofs/unitytravail/travail/mduverneix/spark_maven/src/main/resources
+2019-01-24 12:28:32,709 [Worker-0] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-24 12:28:32,711 [Worker-0] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /autofs/unitytravail/travail/mduverneix/spark_maven/src/test/resources
+2019-01-24 12:28:34,616 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: bigdata:TPSpark:0.0.1 @ /autofs/unitytravail/travail/mduverneix/spark_maven/pom.xml.
+2019-01-24 12:28:35,387 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-24 12:28:35,389 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /autofs/unitytravail/travail/mduverneix/spark_maven/src/main/resources
+2019-01-24 12:28:35,391 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-24 12:28:35,392 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /autofs/unitytravail/travail/mduverneix/spark_maven/src/test/resources
+2019-01-24 12:28:37,437 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-24 12:28:37,439 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /autofs/unitytravail/travail/mduverneix/spark_maven/src/main/resources
+2019-01-24 12:28:37,440 [Worker-6] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-24 12:28:37,442 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /autofs/unitytravail/travail/mduverneix/spark_maven/src/test/resources
+2019-01-24 12:29:29,298 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: bigdata:ProjectSpark:0.0.1 @ /autofs/unitytravail/travail/mduverneix/projet_Spark/pom.xml.
+2019-01-24 12:29:30,932 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-24 12:29:30,936 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /autofs/unitytravail/travail/mduverneix/projet_Spark/src/main/resources
+2019-01-24 12:29:30,937 [Worker-5] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-24 12:29:30,939 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /autofs/unitytravail/travail/mduverneix/projet_Spark/src/test/resources
+2019-01-24 12:29:31,746 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: bigdata:ProjectSpark:0.0.1 @ /autofs/unitytravail/travail/mduverneix/projet_Spark/pom.xml.
+2019-01-24 12:29:33,808 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-24 12:29:33,810 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /autofs/unitytravail/travail/mduverneix/projet_Spark/src/main/resources
+2019-01-24 12:29:33,812 [Worker-2] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-24 12:29:33,813 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /autofs/unitytravail/travail/mduverneix/projet_Spark/src/test/resources
+2019-01-24 12:29:36,025 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-24 12:29:36,027 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /autofs/unitytravail/travail/mduverneix/projet_Spark/src/main/resources
+2019-01-24 12:29:36,029 [Worker-13] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-24 12:29:36,032 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /autofs/unitytravail/travail/mduverneix/projet_Spark/src/test/resources
+2019-01-24 12:32:30,095 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-24 12:32:30,104 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-24 12:32:30,106 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-24 12:32:30,109 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /autofs/unitytravail/travail/mduverneix/projet_Spark/src/test/resources
+2019-01-24 12:32:31,165 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-24 12:32:31,169 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-24 12:32:31,171 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-24 12:32:31,174 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /autofs/unitytravail/travail/mduverneix/projet_Spark/src/test/resources
+2019-01-24 12:32:33,723 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-24 12:32:33,727 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-24 12:32:33,730 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-24 12:32:33,736 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /autofs/unitytravail/travail/mduverneix/projet_Spark/src/test/resources
+2019-01-24 12:33:24,648 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-24 12:33:24,650 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2019-01-24 12:33:24,652 [Worker-10] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+2019-01-24 12:33:24,654 [Worker-10] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /autofs/unitytravail/travail/mduverneix/projet_Spark/src/test/resources
